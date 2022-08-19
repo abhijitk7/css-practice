@@ -1,0 +1,15 @@
+.div1{
+    background-color: aqua;
+    height: 600px;
+    width: 400px;
+}
+
+.div2{
+    background-color: rgb(43, 226, 104);
+    height: 400px;
+    width: 250px;
+}
+
+.highlight-text{
+    color: dimgray
+}
